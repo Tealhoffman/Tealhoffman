@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on getting my bachelors in electrical engineering
+- 🌱 I’m currently learning object oriented programing, electromagnetics, and CAD
+- 🤔 I’m looking for help with example code for radar applications
+- 💬 Ask me about my Hawaii Space Grant Experiment 
+- 📫 How to reach me: https://www.linkedin.com/in/teal-hoffman-2199702a5/
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I am very into fitness and have a goal of doing the 2026 Honolulu Marathon 
